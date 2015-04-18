@@ -1,3 +1,3 @@
 # read-sails
 
-a [Sails](http://sailsjs.org) application
+A hackernews-like site where users can post articles and others can read and upvote it in sails.js
